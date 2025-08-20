@@ -72,8 +72,7 @@ Businesses can identify target customer groups and design personalized marketing
 📬 Contact
 
 📧 Email: manishyadav0771@gmail.com
-
-🔗 LinkedIn: 
+🔗 LinkedIn:https://www.linkedin.com/posts/manishyadav0707_datascience-machinelearning-customersegmentation-activity-7363872318089043969-kJnS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlZo-gBTdfKsqy_sSlK_A4ts646qE5e-Dc
 <img width="1407" height="532" alt="plot" src="https://github.com/user-attachments/assets/6e1a7c66-123e-4a9a-9925-340ccd00f85c" />
 
 
